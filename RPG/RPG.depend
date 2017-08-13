@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1502595661 source:/home/scratch342/Documents/RPG/main.cpp
+	<iostream>
+	"player.h"
+	"opponent.h"
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<pthread.h>
+	<unistd.h>
+	<string>
+
+1502595803 /home/scratch342/Documents/RPG/player.h
+	<string>
+
+1502595808 /home/scratch342/Documents/RPG/opponent.h
+	<string>
+
